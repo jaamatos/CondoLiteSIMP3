@@ -1,5 +1,6 @@
 # CondoLiteSIMP3
 Gestão Simplificada de Condomínio
+[Desenvolvido em VB.net e Base de Dados SQLite)
 
 Características principais da versão gratuita:
 * Controlo de fluxo de caixa, garantido detecção de erros e desvios por consolidar
