@@ -1,6 +1,6 @@
 # CondoLiteSIMP3
 Gestão Simplificada de Condomínio
-[Desenvolvido em VB.net e Base de Dados SQLite)
+Desenvolvido em #Development VB.net e Base de Dados SQLite
 
 Características principais da versão gratuita:
 * Controlo de fluxo de caixa, garantido detecção de erros e desvios por consolidar
@@ -17,3 +17,7 @@ Características principais da versão gratuita:
 * Emissão antecipada de recibos para servir também como lembrete
 * Emissão da declaração de rendimentos prediais, no caso de aluguer Casa Porteira
 _____________________________________________________________________________
+Limitações conhecidas
+* Apenas um (1) Banco
+* Não controla Quotas em atraso
+
