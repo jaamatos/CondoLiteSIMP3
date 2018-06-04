@@ -1,6 +1,6 @@
 # CondoLiteSIMP3
 Gestão Simplificada de Condomínio
-Desenvolvido em #Development VB.net e Base de Dados SQLite
+Desenvolvido em #Development VB.net e Base de Dados MySQL (Maria DB)
 
 Características principais da versão gratuita:
 * Controlo de fluxo de caixa, garantido detecção de erros e desvios por consolidar
