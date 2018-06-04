@@ -1,4 +1,4 @@
-# CondoLiteSIMP3
+# CondoLiteSIMP3 freeMySQLDB
 Gestão Simplificada de Condomínio
 Desenvolvido em #Development VB.net e Base de Dados MySQL (Maria DB)
 
